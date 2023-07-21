@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+    padding:0;
+}
+.top_menu{
+  background-image: url("images/header-bg.png");  
+  background-repeat: no-repeat;
+  background-size: 95%;
+}
+h3{
+    font-size:30px;
+    padding-left:150px;
+}
+h1{
+  font-size:45px; 
+  color: #e95184;
+  padding-left: 150px;
+}
+p{
+    color:dimgray;
+
+}
+.link_button{
+    text-decoration: none;
+    font-size: 15px;
+    background-image: linear-gradient(45deg, #e95184, #e95814);
+    padding:10px 30px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+}
+.half_width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half_width img{
+    width: 80%;
+    margin-bottom: 50px;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.middle_menu{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h2{
+    text-align: center;
+}
+.settelment img{
+    width: 290px;
+    margin-bottom: 15px;
+   margin-left: 160px;
+    float: left;
+    
+}
+.settelment2 img{
+   width: 290px;
+   margin-bottom: 15px;
+   margin-left:20px;
+   float: left;
+   
+}
+.settelment3 img{
+    width: 290px;
+    margin-left:20px;
+   float: left;
+    
+}
+
+.let_work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+h4{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h6{
+    text-align: center;
+    color:white;
+    margin: 0;
+    padding: 15px;
+}
+.client_bru{
+    text-align: center;
+}
+span{
+    color:white;
+    padding-left: 24%;
+    font-size: 26px;
+   
+}
+
+.box_module{
+    background-color:#e95184;
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    border-radius: 5px;
+    color:white;
+}
+.last_menu{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+footer p{
+    text-align: center;
+}
